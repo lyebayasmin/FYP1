@@ -1,0 +1,494 @@
+{
+  "spanish": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "hola", "translation": "hello" },
+          { "word": "adiós", "translation": "goodbye" },
+          { "word": "gracias", "translation": "thank you" },
+          { "word": "por favor", "translation": "please" },
+          { "word": "sí", "translation": "yes" },
+          { "word": "no", "translation": "no" },
+          { "word": "buenos días", "translation": "good morning" },
+          { "word": "buenas noches", "translation": "good night" },
+          { "word": "amigo", "translation": "friend" },
+          { "word": "familia", "translation": "family" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "casa", "translation": "house" },
+          { "word": "agua", "translation": "water" },
+          { "word": "comida", "translation": "food" },
+          { "word": "tiempo", "translation": "time" },
+          { "word": "día", "translation": "day" },
+          { "word": "noche", "translation": "night" },
+          { "word": "sol", "translation": "sun" },
+          { "word": "luna", "translation": "moon" },
+          { "word": "libro", "translation": "book" },
+          { "word": "escuela", "translation": "school" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "trabajo", "translation": "work" },
+          { "word": "dinero", "translation": "money" },
+          { "word": "ciudad", "translation": "city" },
+          { "word": "país", "translation": "country" },
+          { "word": "mundo", "translation": "world" },
+          { "word": "vida", "translation": "life" },
+          { "word": "amor", "translation": "love" },
+          { "word": "corazón", "translation": "heart" },
+          { "word": "feliz", "translation": "happy" },
+          { "word": "triste", "translation": "sad" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          { "word": "rojo", "translation": "red" },
+          { "word": "azul", "translation": "blue" },
+          { "word": "verde", "translation": "green" },
+          { "word": "amarillo", "translation": "yellow" },
+          { "word": "blanco", "translation": "white" },
+          { "word": "negro", "translation": "black" },
+          { "word": "uno", "translation": "one" },
+          { "word": "dos", "translation": "two" },
+          { "word": "tres", "translation": "three" },
+          { "word": "cuatro", "translation": "four" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          { "word": "comer", "translation": "to eat" },
+          { "word": "beber", "translation": "to drink" },
+          { "word": "dormir", "translation": "to sleep" },
+          { "word": "hablar", "translation": "to speak" },
+          { "word": "caminar", "translation": "to walk" },
+          { "word": "correr", "translation": "to run" },
+          { "word": "escribir", "translation": "to write" },
+          { "word": "leer", "translation": "to read" },
+          { "word": "escuchar", "translation": "to listen" },
+          { "word": "ver", "translation": "to see" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          { "word": "tienda", "translation": "store" },
+          { "word": "hospital", "translation": "hospital" },
+          { "word": "aeropuerto", "translation": "airport" },
+          { "word": "restaurante", "translation": "restaurant" },
+          { "word": "parque", "translation": "park" },
+          { "word": "playa", "translation": "beach" },
+          { "word": "montaña", "translation": "mountain" },
+          { "word": "río", "translation": "river" },
+          { "word": "calle", "translation": "street" },
+          { "word": "puente", "translation": "bridge" }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          { "word": "pan", "translation": "bread" },
+          { "word": "leche", "translation": "milk" },
+          { "word": "carne", "translation": "meat" },
+          { "word": "pescado", "translation": "fish" },
+          { "word": "fruta", "translation": "fruit" },
+          { "word": "verdura", "translation": "vegetable" },
+          { "word": "arroz", "translation": "rice" },
+          { "word": "café", "translation": "coffee" },
+          { "word": "té", "translation": "tea" },
+          { "word": "jugo", "translation": "juice" }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          { "word": "madre", "translation": "mother" },
+          { "word": "padre", "translation": "father" },
+          { "word": "hermano", "translation": "brother" },
+          { "word": "hermana", "translation": "sister" },
+          { "word": "hijo", "translation": "son" },
+          { "word": "hija", "translation": "daughter" },
+          { "word": "abuelo", "translation": "grandfather" },
+          { "word": "abuela", "translation": "grandmother" },
+          { "word": "tío", "translation": "uncle" },
+          { "word": "tía", "translation": "aunt" }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          { "word": "lluvia", "translation": "rain" },
+          { "word": "nieve", "translation": "snow" },
+          { "word": "viento", "translation": "wind" },
+          { "word": "nube", "translation": "cloud" },
+          { "word": "estrella", "translation": "star" },
+          { "word": "árbol", "translation": "tree" },
+          { "word": "flor", "translation": "flower" },
+          { "word": "mar", "translation": "sea" },
+          { "word": "cielo", "translation": "sky" },
+          { "word": "tierra", "translation": "earth" }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          { "word": "cabeza", "translation": "head" },
+          { "word": "mano", "translation": "hand" },
+          { "word": "pie", "translation": "foot" },
+          { "word": "ojo", "translation": "eye" },
+          { "word": "oreja", "translation": "ear" },
+          { "word": "nariz", "translation": "nose" },
+          { "word": "boca", "translation": "mouth" },
+          { "word": "brazo", "translation": "arm" },
+          { "word": "pierna", "translation": "leg" },
+          { "word": "dedo", "translation": "finger" }
+        ]
+      }
+    ]
+  },
+  "german": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "Hallo", "translation": "hello" },
+          { "word": "Tschüss", "translation": "goodbye" },
+          { "word": "Danke", "translation": "thank you" },
+          { "word": "Bitte", "translation": "please" },
+          { "word": "Ja", "translation": "yes" },
+          { "word": "Nein", "translation": "no" },
+          { "word": "Guten Morgen", "translation": "good morning" },
+          { "word": "Gute Nacht", "translation": "good night" },
+          { "word": "Freund", "translation": "friend" },
+          { "word": "Familie", "translation": "family" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "Haus", "translation": "house" },
+          { "word": "Wasser", "translation": "water" },
+          { "word": "Essen", "translation": "food" },
+          { "word": "Zeit", "translation": "time" },
+          { "word": "Tag", "translation": "day" },
+          { "word": "Nacht", "translation": "night" },
+          { "word": "Sonne", "translation": "sun" },
+          { "word": "Mond", "translation": "moon" },
+          { "word": "Buch", "translation": "book" },
+          { "word": "Schule", "translation": "school" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "Arbeit", "translation": "work" },
+          { "word": "Geld", "translation": "money" },
+          { "word": "Stadt", "translation": "city" },
+          { "word": "Land", "translation": "country" },
+          { "word": "Welt", "translation": "world" },
+          { "word": "Leben", "translation": "life" },
+          { "word": "Liebe", "translation": "love" },
+          { "word": "Herz", "translation": "heart" },
+          { "word": "glücklich", "translation": "happy" },
+          { "word": "traurig", "translation": "sad" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          { "word": "rot", "translation": "red" },
+          { "word": "blau", "translation": "blue" },
+          { "word": "grün", "translation": "green" },
+          { "word": "gelb", "translation": "yellow" },
+          { "word": "weiß", "translation": "white" },
+          { "word": "schwarz", "translation": "black" },
+          { "word": "eins", "translation": "one" },
+          { "word": "zwei", "translation": "two" },
+          { "word": "drei", "translation": "three" },
+          { "word": "vier", "translation": "four" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          { "word": "essen", "translation": "to eat" },
+          { "word": "trinken", "translation": "to drink" },
+          { "word": "schlafen", "translation": "to sleep" },
+          { "word": "sprechen", "translation": "to speak" },
+          { "word": "gehen", "translation": "to walk" },
+          { "word": "laufen", "translation": "to run" },
+          { "word": "schreiben", "translation": "to write" },
+          { "word": "lesen", "translation": "to read" },
+          { "word": "hören", "translation": "to listen" },
+          { "word": "sehen", "translation": "to see" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          { "word": "Laden", "translation": "store" },
+          { "word": "Krankenhaus", "translation": "hospital" },
+          { "word": "Flughafen", "translation": "airport" },
+          { "word": "Restaurant", "translation": "restaurant" },
+          { "word": "Park", "translation": "park" },
+          { "word": "Strand", "translation": "beach" },
+          { "word": "Berg", "translation": "mountain" },
+          { "word": "Fluss", "translation": "river" },
+          { "word": "Straße", "translation": "street" },
+          { "word": "Brücke", "translation": "bridge" }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          { "word": "Brot", "translation": "bread" },
+          { "word": "Milch", "translation": "milk" },
+          { "word": "Fleisch", "translation": "meat" },
+          { "word": "Fisch", "translation": "fish" },
+          { "word": "Obst", "translation": "fruit" },
+          { "word": "Gemüse", "translation": "vegetable" },
+          { "word": "Reis", "translation": "rice" },
+          { "word": "Kaffee", "translation": "coffee" },
+          { "word": "Tee", "translation": "tea" },
+          { "word": "Saft", "translation": "juice" }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          { "word": "Mutter", "translation": "mother" },
+          { "word": "Vater", "translation": "father" },
+          { "word": "Bruder", "translation": "brother" },
+          { "word": "Schwester", "translation": "sister" },
+          { "word": "Sohn", "translation": "son" },
+          { "word": "Tochter", "translation": "daughter" },
+          { "word": "Großvater", "translation": "grandfather" },
+          { "word": "Großmutter", "translation": "grandmother" },
+          { "word": "Onkel", "translation": "uncle" },
+          { "word": "Tante", "translation": "aunt" }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          { "word": "Regen", "translation": "rain" },
+          { "word": "Schnee", "translation": "snow" },
+          { "word": "Wind", "translation": "wind" },
+          { "word": "Wolke", "translation": "cloud" },
+          { "word": "Stern", "translation": "star" },
+          { "word": "Baum", "translation": "tree" },
+          { "word": "Blume", "translation": "flower" },
+          { "word": "Meer", "translation": "sea" },
+          { "word": "Himmel", "translation": "sky" },
+          { "word": "Erde", "translation": "earth" }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          { "word": "Kopf", "translation": "head" },
+          { "word": "Hand", "translation": "hand" },
+          { "word": "Fuß", "translation": "foot" },
+          { "word": "Auge", "translation": "eye" },
+          { "word": "Ohr", "translation": "ear" },
+          { "word": "Nase", "translation": "nose" },
+          { "word": "Mund", "translation": "mouth" },
+          { "word": "Arm", "translation": "arm" },
+          { "word": "Bein", "translation": "leg" },
+          { "word": "Finger", "translation": "finger" }
+        ]
+      }
+    ]
+  },
+  "urdu": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "سلام", "translation": "hello" },
+          { "word": "خدا حافظ", "translation": "goodbye" },
+          { "word": "شکریہ", "translation": "thank you" },
+          { "word": "براہ کرم", "translation": "please" },
+          { "word": "ہاں", "translation": "yes" },
+          { "word": "نہیں", "translation": "no" },
+          { "word": "صبح بخیر", "translation": "good morning" },
+          { "word": "شب بخیر", "translation": "good night" },
+          { "word": "دوست", "translation": "friend" },
+          { "word": "خاندان", "translation": "family" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "گھر", "translation": "house" },
+          { "word": "پانی", "translation": "water" },
+          { "word": "کھانا", "translation": "food" },
+          { "word": "وقت", "translation": "time" },
+          { "word": "دن", "translation": "day" },
+          { "word": "رات", "translation": "night" },
+          { "word": "سورج", "translation": "sun" },
+          { "word": "چاند", "translation": "moon" },
+          { "word": "کتاب", "translation": "book" },
+          { "word": "سکول", "translation": "school" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "کام", "translation": "work" },
+          { "word": "پیسہ", "translation": "money" },
+          { "word": "شہر", "translation": "city" },
+          { "word": "ملک", "translation": "country" },
+          { "word": "دنیا", "translation": "world" },
+          { "word": "زندگی", "translation": "life" },
+          { "word": "محبت", "translation": "love" },
+          { "word": "دل", "translation": "heart" },
+          { "word": "خوش", "translation": "happy" },
+          { "word": "اداس", "translation": "sad" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          { "word": "سرخ", "translation": "red" },
+          { "word": "نیلا", "translation": "blue" },
+          { "word": "سبز", "translation": "green" },
+          { "word": "پیلا", "translation": "yellow" },
+          { "word": "سفید", "translation": "white" },
+          { "word": "کالا", "translation": "black" },
+          { "word": "ایک", "translation": "one" },
+          { "word": "دو", "translation": "two" },
+          { "word": "تین", "translation": "three" },
+          { "word": "چار", "translation": "four" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          { "word": "کھانا", "translation": "to eat" },
+          { "word": "پینا", "translation": "to drink" },
+          { "word": "سونا", "translation": "to sleep" },
+          { "word": "بولنا", "translation": "to speak" },
+          { "word": "چلنا", "translation": "to walk" },
+          { "word": "دوڑنا", "translation": "to run" },
+          { "word": "لکھنا", "translation": "to write" },
+          { "word": "پڑھنا", "translation": "to read" },
+          { "word": "سننا", "translation": "to listen" },
+          { "word": "دیکھنا", "translation": "to see" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          { "word": "دکان", "translation": "store" },
+          { "word": "ہسپتال", "translation": "hospital" },
+          { "word": "ہوائی اڈا", "translation": "airport" },
+          { "word": "ریستوران", "translation": "restaurant" },
+          { "word": "پارک", "translation": "park" },
+          { "word": "ساحل", "translation": "beach" },
+          { "word": "پہاڑ", "translation": "mountain" },
+          { "word": "دریا", "translation": "river" },
+          { "word": "گلی", "translation": "street" },
+          { "word": "پل", "translation": "bridge" }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          { "word": "روٹی", "translation": "bread" },
+          { "word": "دودھ", "translation": "milk" },
+          { "word": "گوشت", "translation": "meat" },
+          { "word": "مچھلی", "translation": "fish" },
+          { "word": "پھل", "translation": "fruit" },
+          { "word": "سبزی", "translation": "vegetable" },
+          { "word": "چاول", "translation": "rice" },
+          { "word": "کافی", "translation": "coffee" },
+          { "word": "چائے", "translation": "tea" },
+          { "word": "جوس", "translation": "juice" }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          { "word": "ماں", "translation": "mother" },
+          { "word": "باپ", "translation": "father" },
+          { "word": "بھائی", "translation": "brother" },
+          { "word": "بہن", "translation": "sister" },
+          { "word": "بیٹا", "translation": "son" },
+          { "word": "بیٹی", "translation": "daughter" },
+          { "word": "دادا", "translation": "grandfather" },
+          { "word": "دادی", "translation": "grandmother" },
+          { "word": "چچا", "translation": "uncle" },
+          { "word": "خالہ", "translation": "aunt" }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          { "word": "بارش", "translation": "rain" },
+          { "word": "برف", "translation": "snow" },
+          { "word": "ہوا", "translation": "wind" },
+          { "word": "بادل", "translation": "cloud" },
+          { "word": "ستارہ", "translation": "star" },
+          { "word": "درخت", "translation": "tree" },
+          { "word": "پھول", "translation": "flower" },
+          { "word": "سمندر", "translation": "sea" },
+          { "word": "آسمان", "translation": "sky" },
+          { "word": "زمین", "translation": "earth" }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          { "word": "سر", "translation": "head" },
+          { "word": "ہاتھ", "translation": "hand" },
+          { "word": "پاؤں", "translation": "foot" },
+          { "word": "آنکھ", "translation": "eye" },
+          { "word": "کان", "translation": "ear" },
+          { "word": "ناک", "translation": "nose" },
+          { "word": "منہ", "translation": "mouth" },
+          { "word": "بازو", "translation": "arm" },
+          { "word": "ٹانگ", "translation": "leg" },
+          { "word": "انگلی", "translation": "finger" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "urdu": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "علمبردار", "translation": "flag bearer" },
+          { "word": "سفارتکار", "translation": "diplomat" },
+          { "word": "رہائش", "translation": "residence" },
+          { "word": "سڑک", "translation": "road" },
+          { "word": "فصل", "translation": "crop" },
+          { "word": "بجا", "translation": "played" },
+          { "word": "چپک", "translation": "stick" },
+          { "word": "شوہر", "translation": "husband" },
+          { "word": "ناقہ", "translation": "camel" },
+          { "word": "شمالی", "translation": "northern" }
+        ],
+        "phrases": [
+          { "word": "میرا شوہر", "translation": "my husband" },
+          { "word": "شمالی علاقہ", "translation": "northern area" },
+          { "word": "نئی سڑک", "translation": "new road" },
+          { "word": "اچھی فصل", "translation": "good crop" },
+          { "word": "بڑی رہائش", "translation": "big residence" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "غلط", "translation": "wrong" },
+          { "word": "مشرقی", "translation": "eastern" },
+          { "word": "پاکستانی", "translation": "Pakistani" },
+          { "word": "تیر", "translation": "arrow" },
+          { "word": "آرائش", "translation": "decoration" },
+          { "word": "چمک", "translation": "shine" },
+          { "word": "دکھی", "translation": "sad" },
+          { "word": "عوامی", "translation": "public" },
+          { "word": "مکمل", "translation": "complete" },
+          { "word": "علمی", "translation": "scholarly" }
+        ],
+        "phrases": [
+          { "word": "غلط جواب", "translation": "wrong answer" },
+          { "word": "مشرقی ثقافت", "translation": "eastern culture" },
+          { "word": "عوامی جگہ", "translation": "public place" },
+          { "word": "مکمل کام", "translation": "complete work" },
+          { "word": "خوبصورت آرائش", "translation": "beautiful decoration" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "بٹوا", "translation": "wallet" },
+          { "word": "سیاستدان", "translation": "politician" },
+          { "word": "چھپا", "translation": "hidden" },
+          { "word": "بڑھ", "translation": "grow" },
+          { "word": "سلطنت", "translation": "empire" },
+          { "word": "سدھر", "translation": "improve" },
+          { "word": "بڑا", "translation": "big" },
+          { "word": "زکام", "translation": "cold" },
+          { "word": "پتلی", "translation": "thin" },
+          { "word": "ظلم", "translation": "oppression" }
+        ],
+        "phrases": [
+          { "word": "بڑا بٹوا", "translation": "big wallet" },
+          { "word": "پرانی سلطنت", "translation": "old empire" },
+          { "word": "بڑا ظلم", "translation": "great oppression" },
+          { "word": "پتلی لڑکی", "translation": "thin girl" },
+          { "word": "شدید زکام", "translation": "severe cold" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Basic Words 4",
+        "words": [
+          { "word": "مل", "translation": "meet" },
+          { "word": "نبھا", "translation": "fulfill" },
+          { "word": "پالیسی", "translation": "policy" },
+          { "word": "جھڑک", "translation": "scold" },
+          { "word": "سنبھال", "translation": "handle" },
+          { "word": "بھڑک", "translation": "flare up" },
+          { "word": "خوبی", "translation": "quality" },
+          { "word": "ثبات", "translation": "stability" },
+          { "word": "گزار", "translation": "spend" },
+          { "word": "رو", "translation": "cry" }
+        ],
+        "phrases": [
+          { "word": "اچھی پالیسی", "translation": "good policy" },
+          { "word": "بڑی خوبی", "translation": "great quality" },
+          { "word": "ذمہ داری سنبھال", "translation": "handle responsibility" },
+          { "word": "وقت گزار", "translation": "spend time" },
+          { "word": "نہ رو", "translation": "don't cry" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Basic Words 5",
+        "words": [
+          { "word": "شہزادہ", "translation": "prince" },
+          { "word": "بہتر", "translation": "better" },
+          { "word": "تیار", "translation": "ready" },
+          { "word": "سزا", "translation": "punishment" },
+          { "word": "جنوبی", "translation": "southern" },
+          { "word": "خودمختاری", "translation": "autonomy" },
+          { "word": "شفاعت", "translation": "intercession" },
+          { "word": "کٹ", "translation": "cut" },
+          { "word": "دھلا", "translation": "washed" },
+          { "word": "تالا", "translation": "lock" }
+        ],
+        "phrases": [
+          { "word": "جنوبی علاقہ", "translation": "southern area" },
+          { "word": "بہتر طریقہ", "translation": "better way" },
+          { "word": "تیار ہو", "translation": "get ready" },
+          { "word": "سخت سزا", "translation": "harsh punishment" },
+          { "word": "نیا تالا", "translation": "new lock" }
+        ]
+      }
+    ]
+  },
+  "german": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "Schlichtung", "translation": "arbitration" },
+          { "word": "Tischkleid", "translation": "tablecloth" },
+          { "word": "Tischklopfen", "translation": "table rapping" },
+          { "word": "Tischkopierer", "translation": "desktop copier" },
+          { "word": "Tischkoralle", "translation": "table coral" },
+          { "word": "Tischkultur", "translation": "table culture" },
+          { "word": "Vizemeisterin", "translation": "vice champion" },
+          { "word": "Vizemeister", "translation": "runner up" },
+          { "word": "Aachener", "translation": "person from Aachen" },
+          { "word": "Abendfahrt", "translation": "evening trip" }
+        ],
+        "phrases": [
+          { "word": "die Schlichtung", "translation": "the arbitration" },
+          { "word": "schönes Tischkleid", "translation": "beautiful tablecloth" },
+          { "word": "der Vizemeister", "translation": "the runner up" },
+          { "word": "eine Abendfahrt", "translation": "an evening trip" },
+          { "word": "neue Tischkultur", "translation": "new table culture" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "Abendfrieden", "translation": "evening peace" },
+          { "word": "Bergen", "translation": "mountains" },
+          { "word": "Bergepanzer", "translation": "recovery tank" },
+          { "word": "Bergerette", "translation": "wagtail" },
+          { "word": "Drosslung", "translation": "throttling" },
+          { "word": "Flamenco", "translation": "flamenco" },
+          { "word": "Flame", "translation": "flame" },
+          { "word": "Flamingo", "translation": "flamingo" },
+          { "word": "Flammbirke", "translation": "flame birch" },
+          { "word": "Liebschaft", "translation": "affair" }
+        ],
+        "phrases": [
+          { "word": "in Bergen", "translation": "in mountains" },
+          { "word": "schöner Flamingo", "translation": "beautiful flamingo" },
+          { "word": "der Flamenco", "translation": "the flamenco" },
+          { "word": "eine Liebschaft", "translation": "an affair" },
+          { "word": "tiefe Berge", "translation": "deep mountains" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "Liebster", "translation": "darling" },
+          { "word": "Liebste", "translation": "dearest" },
+          { "word": "Liechtensteinerin", "translation": "woman from Liechtenstein" },
+          { "word": "Markt", "translation": "market" },
+          { "word": "Markung", "translation": "boundary" },
+          { "word": "Markusdom", "translation": "St Mark's Basilica" },
+          { "word": "Nageleisen", "translation": "nail puller" },
+          { "word": "Pfleger", "translation": "caregiver" },
+          { "word": "Pflegesatz", "translation": "care rate" },
+          { "word": "Reflexzeit", "translation": "reflex time" }
+        ],
+        "phrases": [
+          { "word": "mein Liebster", "translation": "my darling" },
+          { "word": "der Markt", "translation": "the market" },
+          { "word": "guter Pfleger", "translation": "good caregiver" },
+          { "word": "schnelle Reflexzeit", "translation": "fast reflex time" },
+          { "word": "schöner Markusdom", "translation": "beautiful St Mark's" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Basic Words 4",
+        "words": [
+          { "word": "Pflegeroboter", "translation": "care robot" },
+          { "word": "Pflegeschwestern", "translation": "nurses" },
+          { "word": "Reflextod", "translation": "reflex death" },
+          { "word": "Reflexumdrehen", "translation": "reflex reversal" },
+          { "word": "Reflexverhalten", "translation": "reflex behavior" },
+          { "word": "Reflexvisier", "translation": "reflex sight" },
+          { "word": "Marktzuwachs", "translation": "market growth" },
+          { "word": "Marktzyklus", "translation": "market cycle" },
+          { "word": "Nageldystrophie", "translation": "nail dystrophy" },
+          { "word": "Nagelextension", "translation": "nail extension" }
+        ],
+        "phrases": [
+          { "word": "der Pflegeroboter", "translation": "the care robot" },
+          { "word": "gute Pflegeschwestern", "translation": "good nurses" },
+          { "word": "starker Marktzuwachs", "translation": "strong market growth" },
+          { "word": "der Marktzyklus", "translation": "the market cycle" },
+          { "word": "neues Reflexvisier", "translation": "new reflex sight" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Basic Words 5",
+        "words": [
+          { "word": "Nagelextraktion", "translation": "nail extraction" },
+          { "word": "Nagelexzision", "translation": "nail excision" },
+          { "word": "Schlichtungswesen", "translation": "arbitration system" },
+          { "word": "Schlichtvireo", "translation": "plain vireo" },
+          { "word": "Schlichtziesel", "translation": "plain squirrel" },
+          { "word": "Schlichtzugabe", "translation": "finishing allowance" },
+          { "word": "Tischlage", "translation": "table position" },
+          { "word": "Tischkorkenzieher", "translation": "table corkscrew" },
+          { "word": "Vizeoberstzeremonienmeister", "translation": "vice master of ceremonies" },
+          { "word": "Aachenfahrt", "translation": "trip to Aachen" }
+        ],
+        "phrases": [
+          { "word": "das Schlichtungswesen", "translation": "the arbitration system" },
+          { "word": "gute Tischlage", "translation": "good table position" },
+          { "word": "eine Aachenfahrt", "translation": "a trip to Aachen" },
+          { "word": "der Tischkorkenzieher", "translation": "the table corkscrew" },
+          { "word": "kleine Schlichtzugabe", "translation": "small finishing allowance" }
+        ]
+      }
+    ]
+  },
+  "spanish": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          { "word": "sobre", "translation": "about" },
+          { "word": "entre", "translation": "between" },
+          { "word": "ser", "translation": "to be" },
+          { "word": "fue", "translation": "was" },
+          { "word": "sin", "translation": "without" },
+          { "word": "todo", "translation": "all" },
+          { "word": "también", "translation": "also" },
+          { "word": "desde", "translation": "since" },
+          { "word": "cuando", "translation": "when" },
+          { "word": "muy", "translation": "very" }
+        ],
+        "phrases": [
+          { "word": "sobre todo", "translation": "above all" },
+          { "word": "entre amigos", "translation": "between friends" },
+          { "word": "sin duda", "translation": "without doubt" },
+          { "word": "muy bien", "translation": "very well" },
+          { "word": "desde cuando", "translation": "since when" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          { "word": "años", "translation": "years" },
+          { "word": "está", "translation": "is" },
+          { "word": "todos", "translation": "everyone" },
+          { "word": "hay", "translation": "there is" },
+          { "word": "han", "translation": "have" },
+          { "word": "puede", "translation": "can" },
+          { "word": "mi", "translation": "my" },
+          { "word": "año", "translation": "year" },
+          { "word": "cada", "translation": "each" },
+          { "word": "uno", "translation": "one" }
+        ],
+        "phrases": [
+          { "word": "cada año", "translation": "each year" },
+          { "word": "mi casa", "translation": "my house" },
+          { "word": "hay tiempo", "translation": "there is time" },
+          { "word": "todos saben", "translation": "everyone knows" },
+          { "word": "uno más", "translation": "one more" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          { "word": "vez", "translation": "time" },
+          { "word": "bien", "translation": "good" },
+          { "word": "hace", "translation": "makes" },
+          { "word": "trabajo", "translation": "work" },
+          { "word": "nacional", "translation": "national" },
+          { "word": "estado", "translation": "state" },
+          { "word": "otros", "translation": "others" },
+          { "word": "gobierno", "translation": "government" },
+          { "word": "eso", "translation": "that" },
+          { "word": "tiempo", "translation": "time" }
+        ],
+        "phrases": [
+          { "word": "esta vez", "translation": "this time" },
+          { "word": "buen trabajo", "translation": "good work" },
+          { "word": "hace tiempo", "translation": "long ago" },
+          { "word": "el gobierno", "translation": "the government" },
+          { "word": "por eso", "translation": "because of that" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Basic Words 4",
+        "words": [
+          { "word": "vida", "translation": "life" },
+          { "word": "esto", "translation": "this" },
+          { "word": "forma", "translation": "form" },
+          { "word": "estos", "translation": "these" },
+          { "word": "sólo", "translation": "only" },
+          { "word": "personas", "translation": "people" },
+          { "word": "ni", "translation": "neither" },
+          { "word": "otro", "translation": "other" },
+          { "word": "ahora", "translation": "now" },
+          { "word": "hoy", "translation": "today" }
+        ],
+        "phrases": [
+          { "word": "mi vida", "translation": "my life" },
+          { "word": "de esta forma", "translation": "in this way" },
+          { "word": "ahora mismo", "translation": "right now" },
+          { "word": "hoy día", "translation": "nowadays" },
+          { "word": "otras personas", "translation": "other people" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Basic Words 5",
+        "words": [
+          { "word": "era", "translation": "was" },
+          { "word": "caso", "translation": "case" },
+          { "word": "están", "translation": "are" },
+          { "word": "les", "translation": "them" },
+          { "word": "mejor", "translation": "better" },
+          { "word": "lugar", "translation": "place" },
+          { "word": "qué", "translation": "what" },
+          { "word": "quien", "translation": "who" },
+          { "word": "casa", "translation": "house" },
+          { "word": "educación", "translation": "education" }
+        ],
+        "phrases": [
+          { "word": "en este caso", "translation": "in this case" },
+          { "word": "el mejor lugar", "translation": "the best place" },
+          { "word": "mi casa", "translation": "my house" },
+          { "word": "buena educación", "translation": "good education" },
+          { "word": "qué pasa", "translation": "what's happening" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Basic Words 6",
+        "words": [
+          { "word": "servicio", "translation": "service" },
+          { "word": "seguridad", "translation": "security" },
+          { "word": "proceso", "translation": "process" },
+          { "word": "horas", "translation": "hours" },
+          { "word": "él", "translation": "he" },
+          { "word": "política", "translation": "politics" },
+          { "word": "tal", "translation": "such" },
+          { "word": "artículo", "translation": "article" },
+          { "word": "universidad", "translation": "university" },
+          { "word": "historia", "translation": "history" }
+        ],
+        "phrases": [
+          { "word": "buen servicio", "translation": "good service" },
+          { "word": "la universidad", "translation": "the university" },
+          { "word": "la historia", "translation": "the history" },
+          { "word": "tal vez", "translation": "perhaps" },
+          { "word": "este artículo", "translation": "this article" }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Basic Words 7",
+        "words": [
+          { "word": "cosas", "translation": "things" },
+          { "word": "cualquier", "translation": "any" },
+          { "word": "sí", "translation": "yes" },
+          { "word": "unos", "translation": "some" }
+        ],
+        "phrases": [
+          { "word": "muchas cosas", "translation": "many things" },
+          { "word": "cualquier cosa", "translation": "anything" },
+          { "word": "sí claro", "translation": "yes of course" },
+          { "word": "unos días", "translation": "some days" }
+        ]
+      }
+    ]
+  }
+}
